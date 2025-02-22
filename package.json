@@ -1,0 +1,13 @@
+{
+    "name": "affiliate-service",
+    "version": "1.0.0",
+    "description": "Affiliate Service handles partner affiliations.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.21.2"
+    }
+  }
+  
